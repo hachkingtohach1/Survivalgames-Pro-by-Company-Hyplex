@@ -1,0 +1,5 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/hachkingtohach1/Survivalgames-Pro-by-Company-Hyplex
+branches:
+- master
+projects: []
+...
